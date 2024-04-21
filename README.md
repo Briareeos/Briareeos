@@ -10,7 +10,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCAQBY0lyk3YVwOnCGPUkEGg)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-This account has been created for the purpose of offering support and sharing knowledge with those who find self-improvement a valuable challenge. I firmly believe that solving challenges and setting new goals are essential for each individual to achieve success in their path. Therefore, I trust that you will find this space interesting and useful if you are passionate about the wide universe of programming.
+This account has been created to offer support and sharing knowledge with those who find self-improvement a valuable challenge. I firmly believe that solving challenges and setting new goals are essential for each individual to achieve success in their path. Therefore, I trust that you will find this space interesting and useful if you are passionate about the wide universe of programming.
 
 
 ## CORE SKILLS
@@ -37,7 +37,7 @@ This account has been created for the purpose of offering support and sharing kn
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 </p>
 
-## MOST USED LENGUAGES
+## MOST USED LANGUAGES
 ![Briareos' GitHub stats](https://github-readme-stats.vercel.app/api?username=Briareeos&show_icons=true&theme=tokyonight&title_color=30DED5&icon_color=30DED5&bg_color=0,000000,130F40&text_color=A1A1A1) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briareeos&layout=compact&theme=tokyonight&title_color=30DED5&icon_color=30DED5&bg_color=0,000000,130F40&text_color=A1A1A1)
 
 
